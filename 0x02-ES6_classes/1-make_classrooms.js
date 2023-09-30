@@ -1,6 +1,5 @@
 // Returns array of three initialised Classroom instances/objects
-
-import Classroom from "./0-classroom.js";
+import Classroom from "./0-classroom";
 
 export default function initializeRooms() {
   return [
